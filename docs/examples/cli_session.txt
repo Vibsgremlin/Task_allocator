@@ -1,0 +1,6 @@
+--- Smart to-do list ---
+1. Add task
+2. List Tasks
+3. Complete task
+4. Exit
+choose an option: 2
