@@ -64,3 +64,8 @@ flowchart LR
   - completed-task selection can be inconsistent because `list_tasks()` shows a sorted view while `complete_task()` indexes into the unsorted stored list
   - there is no task editing, deletion, or input validation for malformed dates
   - the previous README had almost no documentation
+
+## Supporting Docs
+- [Architecture diagram](docs/architecture.png)
+- [Evaluation logs and outputs](docs/evaluation.md)
+- [Sample inputs and outputs](docs/sample_io.md)
